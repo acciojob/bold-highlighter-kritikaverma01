@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    line-height: 1.6;
+}
+
+a {
+    color: blue;
+    cursor: pointer;
+}
+
+strong {
+    color: rgb(0, 0, 0);
+}
